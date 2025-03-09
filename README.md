@@ -7,7 +7,7 @@
 This project involved designing and implementing a **relational database for a streaming platform**, modeled after **Netflix**. The database schema was created using **draw.io**, with a focus on **data integrity, business logic, and complex queries** for **content management, user subscriptions, and watch history tracking**.  
 
 ## 🏗️ Entity Relationship Diagram  
-![ERD](netflix_dbms/erd.jpg)  
+![ERD](erd.jpg)  
 
 ## 🛠️ Key Features  
 ### 📌 **Database Schema Design**  

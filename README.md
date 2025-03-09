@@ -37,5 +37,3 @@ This project involved designing and implementing a **relational database for a s
 - **SQL (Structured Query Language)**  
 - **MySQL / PostgreSQL (or other relational databases)**  
 - **draw.io (Database schema design)**  
-
-## 📂 Repository Structure  
